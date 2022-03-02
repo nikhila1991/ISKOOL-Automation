@@ -31,9 +31,6 @@ public class LoginTest {
 		adminPassword.sendKeys("krish123");
 		driver.findElement(By.xpath("//span[.='Log in']")).click();
 		System.out.println("Login Successful");
-		System.out.println("Login Successful");
-		System.out.println("Login Successful");
-		System.out.println("Login Successful");
 		
 		
 		//Thread.sleep(3000);
